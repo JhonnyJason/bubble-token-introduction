@@ -1,4 +1,7 @@
 # Bubble Token
+
+[![hackmd-github-sync-badge](https://hackmd.io/RXRBOwV9RNuWP3PPd3AZDw/badge)](https://hackmd.io/RXRBOwV9RNuWP3PPd3AZDw)
+
 A social trust game.
 
 ## What is it?
